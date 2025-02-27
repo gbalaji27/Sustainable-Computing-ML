@@ -95,7 +95,7 @@ Want to improve the model? Fork the repo & create a pull request!
 ## 🛠 Ready to Build?
 ✅ **Clone the Repo & Start Developing!**
 ```bash
-git clone https://github.com/yourusername/ML-Power-Optimization.git
+git clone (https://github.com/gbalaji27/Sustainable-Computing-ML.git)
 cd ML-Power-Optimization
 pip install -r requirements.txt
 ```
